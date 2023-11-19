@@ -47,7 +47,7 @@ MonoBehaviour:
     outlineColor: {r: 0, g: 0, b: 0, a: 1}
     outlineScale: 1
     depthThreshold: 1.5
-    robertsCrossMultiplier: 100
+    robertsCrossMultiplier: 110
     normalThreshold: 0.4
     steepAngleThreshold: 0.2
     steepAngleMultiplier: 25
