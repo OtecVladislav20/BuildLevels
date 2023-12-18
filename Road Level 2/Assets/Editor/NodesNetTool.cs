@@ -65,7 +65,7 @@ namespace EditorNamespace
             if (Event.current.Equals(Event.KeyboardEvent("o")))
                 ConnectOrDisconnect();
 
-            if (Event.current.Equals(Event.KeyboardEvent("p")))
+            if (Event.current.Equals(Event.KeyboardEvent("z")))
                 ChangeVisibility();
         }
 
