@@ -200,6 +200,13 @@
       },
       "url": "https://packages.unity.com"
     },
+    "www.nulltale.huefolders": {
+      "version": "https://github.com/NullTale/HueFolders.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "c4ebd12ac663a603ad8416dacd24bc62ec1b38cc"
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
